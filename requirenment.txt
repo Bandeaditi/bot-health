@@ -1,0 +1,5 @@
+ctransformers==0.2.5
+pinecone-client
+sentence-transformer==2.2.2
+langchain==0.0.225
+flask
